@@ -49,7 +49,7 @@
 |3\_protein|2752\.447|783\.823|783\.823|783\.823|783\.823|
 |4\_protein|883\.5764|3428\.529|3428\.529|3428\.529|3428\.529|
 
-### Расположение на геноме (относительное)
+### Расположение на гене (относительное)
 
 ||Caldicellulosiruptor changbaiensis|Caldicellulosiruptor hydrothermalis 108|Caldicellulosiruptor kronotskyensis 2002|Caldicellulosiruptor obsidiansis OB47|Caldicellulosiruptor owensensis OL|
 |---|---|---|---|---|---|
