@@ -1,5 +1,6 @@
 # hse22_project
 
+[Google Colab](https://colab.research.google.com/drive/11T7O1m4Eo8uH7J0aQduWRYCwGzw_OiG0?usp=sharing)
 ## Анализ аннотированных генов
 
 ||Caldicellulosiruptor changbaiensis|Caldicellulosiruptor hydrothermalis 108|Caldicellulosiruptor kronotskyensis 2002|Caldicellulosiruptor obsidiansis OB47|Caldicellulosiruptor owensensis OL|
